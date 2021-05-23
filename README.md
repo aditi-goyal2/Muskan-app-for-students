@@ -1,4 +1,4 @@
-# Muskan-for-Students
+#Muskan-app-for-Students
 
 
 This project is for School Students to share and showcase their projects to their peers and school teachers.
